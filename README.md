@@ -975,6 +975,7 @@ except Exception as err:
 <img width="454" height="757" alt="image" src="https://github.com/user-attachments/assets/f8f6c319-8892-4a5d-af8b-fc5e5807d2b8" />
 <img width="398" height="164" alt="image" src="https://github.com/user-attachments/assets/ebb9abd8-748d-4220-a18c-9fa5727f9174" />
 
-
+### Ссылка на работающие программы:
+https://colab.research.google.com/drive/1-x5WWtFAqFczw-RgMIvk7NF6XtDIlfy0?usp=sharing
 ## Вывод:
 В ходе выполнения лабораторной работы были освоены ключевые аспекты работы с файлами в Python, включая чтение и запись данных в форматах CSV и JSON. Реализованы программы для обработки разнообразных данных: от простых числовых наборов до сложных структур телефонных книг и спортивной статистики. Полученные навыки позволяют эффективно управлять данными, обрабатывать исключения и создавать надежное программное обеспечение для работы с файлами.
